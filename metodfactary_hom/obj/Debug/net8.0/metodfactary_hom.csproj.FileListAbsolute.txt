@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\bin\Debug\net8.0\metodfactary_hom.exe
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\bin\Debug\net8.0\metodfactary_hom.deps.json
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\bin\Debug\net8.0\metodfactary_hom.runtimeconfig.json
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\bin\Debug\net8.0\metodfactary_hom.dll
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\bin\Debug\net8.0\metodfactary_hom.pdb
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\metodfactary_hom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\metodfactary_hom.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\metodfactary_hom.AssemblyInfo.cs
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\metodfactary_hom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\metodfactary_hom.dll
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\refint\metodfactary_hom.dll
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\metodfactary_hom.pdb
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\metodfactary_hom.genruntimeconfig.cache
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\metodfactary_hom\obj\Debug\net8.0\ref\metodfactary_hom.dll
