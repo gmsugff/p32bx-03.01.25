@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\bin\Debug\net8.0\Prototype_hom.exe
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\bin\Debug\net8.0\Prototype_hom.deps.json
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\bin\Debug\net8.0\Prototype_hom.runtimeconfig.json
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\bin\Debug\net8.0\Prototype_hom.dll
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\bin\Debug\net8.0\Prototype_hom.pdb
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\Prototype_hom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\Prototype_hom.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\Prototype_hom.AssemblyInfo.cs
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\Prototype_hom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\Prototype_hom.dll
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\refint\Prototype_hom.dll
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\Prototype_hom.pdb
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\Prototype_hom.genruntimeconfig.cache
+C:\Users\User\Desktop\дз по проге\IbstractFactary_bx_p32\IbstractFactary_bx_p32\Prototype_hom\obj\Debug\net8.0\ref\Prototype_hom.dll
